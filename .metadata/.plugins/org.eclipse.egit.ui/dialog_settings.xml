@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="true"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/risingtid3/GitTutorial/myTutorial/.git">
+			<item value="false"/>
+			<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="/Users/risingtid3/Git/myProject/.git">
+			<item value="false"/>
+			<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="Cody &lt;hale.l.c91@gmail.com&gt;"/>
+			<item value="632ec1ad38926a7db3af2e7f0439d34bdce81273"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
